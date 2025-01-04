@@ -1,4 +1,8 @@
-# HALF_ADDER_SUBTRACTOR
+NAME:RESHMA.G
+
+REF NO:24003213
+
+EXPERIMENT NO 3: HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -74,7 +78,10 @@ reference number:24003213
 
 **Output/TIMING Waveform**
 
-![Screenshot 2024-12-03 203038](https://github.com/user-attachments/assets/307769ac-7192-4801-86a2-64ff34af6ef4)
+![Screenshot 2025-01-04 040526](https://github.com/user-attachments/assets/1c6ee0e1-882d-41b9-af64-9eb7c34e9ff0)
 
 
-**Result:**thus the half adder and half substractor circuits are designed and the truth tables is verified using quartus software
+
+**Result:**
+
+thus the half adder and half substractor circuits are designed and the truth tables is verified using quartus software
